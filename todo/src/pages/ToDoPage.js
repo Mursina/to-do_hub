@@ -1,6 +1,6 @@
 const ToDoPage = () => {
     return(
-        <p>This is the support page</p>
+        <p>This is your list!</p>
     );
 }
 
